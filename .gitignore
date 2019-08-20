@@ -33,6 +33,7 @@ venv/
 *.pdf
 *.out
 *.csv
+.idea/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
