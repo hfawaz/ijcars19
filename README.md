@@ -1,2 +1,2 @@
-# ijcars19
-IJCARS 19 - MICCAI 18 special issue
+# jigsaws-cnn
+Applying CNNs to JIGSAWS dataset
