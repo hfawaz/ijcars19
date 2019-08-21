@@ -1,5 +1,5 @@
 # Accurate and interpretable evaluation of surgical skills from kinematic data using fully convolutional neural networks
-This is the companion repository for [our paper](https://link.springer.com/article/10.1007/s11548-019-02039-4) titled "Accurate and interpretable evaluation of surgical skills from kinematic data using fully convolutional neural networks" published in the [International Journal of Computer Assisted Radiology and Surgery](https://link.springer.com/journal/11548) - Special Issue of [MICCAI 2018](https://www.springer.com/gp/book/9783030009335), also available on ArXiv [[TODO]]. 
+This is the companion repository for [our paper](https://link.springer.com/article/10.1007/s11548-019-02039-4) titled "Accurate and interpretable evaluation of surgical skills from kinematic data using fully convolutional neural networks" published in the [International Journal of Computer Assisted Radiology and Surgery](https://link.springer.com/journal/11548) - Special Issue of [MICCAI 2018](https://www.springer.com/gp/book/9783030009335), also available on [ArXiv](https://arxiv.org/pdf/1908.07319.pdf). 
 
 ## Architecture
 ![architecture fcn](https://github.com/hfawaz/ijcars19/blob/master/archi-1.png)
