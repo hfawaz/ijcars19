@@ -46,4 +46,5 @@ If you re-use this work, please cite:
   title                    = {Accurate and interpretable evaluation of surgical skills from kinematic data using fully convolutional neural networks},
   journal                  = {International Journal of Computer Assisted Radiology and Surgery},
   year                     = {2019}
+}
 ```
